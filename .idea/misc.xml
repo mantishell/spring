@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/spring_02_springframework/pom.xml" />
         <option value="$PROJECT_DIR$/spring_03_bean/pom.xml" />
         <option value="$PROJECT_DIR$/spring_04_DI/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_05_anno_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_06_xml_ioc/pom.xml" />
       </list>
     </option>
   </component>

@@ -39,6 +39,4 @@ public class AccountServiceImpl3 implements IAccountService {
         System.out.println(myMap);
         System.out.println(myProps);
     }
-
-
 }
