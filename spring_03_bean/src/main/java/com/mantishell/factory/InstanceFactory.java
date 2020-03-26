@@ -4,11 +4,11 @@ import com.mantishell.service.IAccountService;
 import com.mantishell.service.impl.AccountServiceImpl;
 
 /**
- * 模拟一个工厂类（该类可能是存在于jar包中的，我们无法通过修改源码的方式来提供默认构造函数）
+ * 模拟一个工厂类
+ * 此工厂创建对象，必须先有工厂实例对象，再调用方法
  */
 public class InstanceFactory {
-
-    public IAccountService getAccountService(){
+    public IAccountService createAccountService(){
         return new AccountServiceImpl();
     }
 }

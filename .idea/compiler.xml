@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring_01_factory" />
         <module name="spring_03_bean" />
+        <module name="spring_05_xml_CRUD" />
         <module name="spring_02_springframework" />
         <module name="spring_04_DI" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="spring_02_springframework" target="1.5" />
       <module name="spring_03_bean" target="1.5" />
       <module name="spring_04_DI" target="1.5" />
+      <module name="spring_05_xml_CRUD" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
