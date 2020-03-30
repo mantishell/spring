@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring_05_xml_CRUD/spring_05_xml_CRUD.iml" filepath="$PROJECT_DIR$/spring_05_xml_CRUD/spring_05_xml_CRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_06_anno_CRUD/spring_06_anno_CRUD.iml" filepath="$PROJECT_DIR$/spring_06_anno_CRUD/spring_06_anno_CRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_07_config/spring_07_config.iml" filepath="$PROJECT_DIR$/spring_07_config/spring_07_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_08_account/spring_08_account.iml" filepath="$PROJECT_DIR$/spring_08_account/spring_08_account.iml" />
     </modules>
   </component>
 </project>

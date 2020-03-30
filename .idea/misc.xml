@@ -10,7 +10,14 @@
         <option value="$PROJECT_DIR$/spring_05_xml_CRUD/pom.xml" />
         <option value="$PROJECT_DIR$/spring_06_anno_CRUD/pom.xml" />
         <option value="$PROJECT_DIR$/spring_07_config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_08_account/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring_05_anno_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_06_xml_ioc/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
