@@ -3,13 +3,6 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         http://www.springframework.org/schema/beans/spring-beans.xsd">
-    <!--配置beanfactory-->
-    <bean id="beanFactory" class="com.mantishell.factory.BeanFactory">
-        <!--注入service-->
-        <property name="accountService" ref="accountService" />
-        <!-- 注入事务管理器-->
-        <property name="txManager" ref="txManager"/>
-    </bean>
     <!-- 配置Service -->
     <bean id="accountService" class="com.mantishell.service.impl.AccountServiceImpl">
         <!-- 注入dao -->
