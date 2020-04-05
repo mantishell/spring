@@ -12,6 +12,7 @@
         <module name="spring_03_bean" />
         <module name="spring_02_springframework" />
         <module name="spring_08_account" />
+        <module name="spring_09_xml_AOP" />
         <module name="spring_04_DI" />
         <module name="spring_01_factory" />
       </profile>
@@ -27,6 +28,7 @@
       <module name="spring_06_xml_ioc" target="1.5" />
       <module name="spring_07_config" target="1.5" />
       <module name="spring_08_account" target="1.5" />
+      <module name="spring_09_xml_AOP" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
