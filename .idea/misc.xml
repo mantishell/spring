@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/spring_07_config/pom.xml" />
         <option value="$PROJECT_DIR$/spring_08_account/pom.xml" />
         <option value="$PROJECT_DIR$/spring_09_xml_AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_10_xml_AOP_Around/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
