@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring_10_xml_AOP_Around" />
         <module name="spring_06_anno_CRUD" />
         <module name="spring_05_xml_CRUD" />
         <module name="spring_07_config" />
@@ -14,8 +13,10 @@
         <module name="spring_02_springframework" />
         <module name="spring_08_account" />
         <module name="spring_09_xml_AOP" />
-        <module name="spring_04_DI" />
+        <module name="spring_11_anno_AOP" />
         <module name="spring_01_factory" />
+        <module name="spring_04_DI" />
+        <module name="spring_10_xml_AOP_Around" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +30,7 @@
       <module name="spring_08_account" target="1.5" />
       <module name="spring_09_xml_AOP" target="1.5" />
       <module name="spring_10_xml_AOP_Around" target="1.5" />
+      <module name="spring_11_anno_AOP" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

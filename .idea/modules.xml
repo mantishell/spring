@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring_08_account/spring_08_account.iml" filepath="$PROJECT_DIR$/spring_08_account/spring_08_account.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_09_xml_AOP/spring_09_xml_AOP.iml" filepath="$PROJECT_DIR$/spring_09_xml_AOP/spring_09_xml_AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_10_xml_AOP_Around/spring_10_xml_AOP_Around.iml" filepath="$PROJECT_DIR$/spring_10_xml_AOP_Around/spring_10_xml_AOP_Around.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_11_anno_AOP/spring_11_anno_AOP.iml" filepath="$PROJECT_DIR$/spring_11_anno_AOP/spring_11_anno_AOP.iml" />
     </modules>
   </component>
 </project>
